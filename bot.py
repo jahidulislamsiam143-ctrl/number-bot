@@ -62,7 +62,7 @@ def rbtn(text, style=None):
     return b
 
 # --- CONFIGURATION ---
-TOKEN = "8445159054:AAEbMF8ynz9IG3QRS4SEOd4rn6Islw9Q0_Q"  
+TOKEN = "8620861278:AAEgh04sRHo_CpdLEno_yhpnioEBRYgbHqw"  
 ADMIN_ID = 6644381377
 BASE_URL = "http://185.190.142.81"
 NEXA_API_KEY = "nxa_48dce5227efecc6ca2d1841b51860fdd426634a9"
